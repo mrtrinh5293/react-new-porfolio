@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c85423b9c8045b271ccc8dcc4233fba1",
+    "revision": "d26ad2cb8e0523594ffcbe715f647286",
     "url": "/index.html"
   },
   {
-    "revision": "2d820e26021ffb2c484f",
-    "url": "/static/css/main.cd07d3e3.chunk.css"
+    "revision": "7c09b46ec59d1d1f2957",
+    "url": "/static/css/main.5d3edab4.chunk.css"
   },
   {
-    "revision": "bfec31ab0555d839c3c9",
-    "url": "/static/js/2.6dca6863.chunk.js"
+    "revision": "c232e42ff3f0d7493739",
+    "url": "/static/js/2.5b7215ba.chunk.js"
   },
   {
-    "revision": "4bf00ea42f5dad8ab33d5f32afec9baf",
-    "url": "/static/js/2.6dca6863.chunk.js.LICENSE.txt"
+    "revision": "ff5a4d77fbf52fa07db48c2130a0a45f",
+    "url": "/static/js/2.5b7215ba.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "2d820e26021ffb2c484f",
-    "url": "/static/js/main.daf7e2cf.chunk.js"
+    "revision": "7c09b46ec59d1d1f2957",
+    "url": "/static/js/main.db4b2122.chunk.js"
   },
   {
     "revision": "39481e6f89b4b1a0a02c",
@@ -46,10 +46,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "214f599ab3a3b663e1710bb1c316937e",
     "url": "/static/media/ X - 9.214f599a.png"
-  },
-  {
-    "revision": "2e6449b222e6062cc09aee42184b23f7",
-    "url": "/static/media/AVA.2e6449b2.jpeg"
   },
   {
     "revision": "6ac5c9615218ac9d32717154d5ab42c2",
@@ -112,15 +108,23 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/X - 9.b25d7727.png"
   },
   {
-    "revision": "878cee3220c72b254394c3d16ad91d41",
-    "url": "/static/media/sc1.878cee32.png"
+    "revision": "11590a0c0b0ce86d9b762731c999d884",
+    "url": "/static/media/advise.11590a0c.png"
   },
   {
-    "revision": "d8ac4b5660b14b1f88876b48031a4eaf",
-    "url": "/static/media/sc2.d8ac4b56.png"
+    "revision": "39efea440238bc582d944d14c3718acc",
+    "url": "/static/media/duc_resume.39efea44.pdf"
   },
   {
-    "revision": "6b9ef93b6c81744359920f0674c3c457",
-    "url": "/static/media/sc3.6b9ef93b.png"
+    "revision": "a6e829d09353a0d4436e17afc5c1a4fd",
+    "url": "/static/media/pp.a6e829d0.png"
+  },
+  {
+    "revision": "154c3a94036ad5614ba38456c0cf1a88",
+    "url": "/static/media/sc1.154c3a94.png"
+  },
+  {
+    "revision": "b4e47bd7fd08c034539a3fd16486d879",
+    "url": "/static/media/sc2.b4e47bd7.png"
   }
 ]);
