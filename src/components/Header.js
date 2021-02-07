@@ -2,6 +2,7 @@ import React from "react";
 import SRLLogo from "../assets/images/DD.png";
 import { withSRLContext } from "simple-react-lightbox";
 import { Link } from "react-router-dom";
+import samplePDF from "./duc_resume.pdf"
 /*
 We can use an High Order Component to pass the context and use the methods provided
 in case we want to open the lightbox from a button or anything :)
@@ -33,7 +34,7 @@ const Header = props => {
                 </li>
 
                 <li>
-                  <Link to="/resume/">Resume</Link>
+                <a href={samplePDF} className="col-text-2">Resume</a>
                 </li>
 
                 <li>

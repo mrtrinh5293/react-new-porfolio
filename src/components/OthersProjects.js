@@ -5,6 +5,7 @@ import GOT1 from "../assets/images/ X - 8.png"
 import GOT2 from "../assets/images/ X - 9.png"
 import RAY1 from "../assets/images/ X - 15.png"
 import RAY2 from "../assets/images/ X - 16.png"
+import adv from "../assets/images/advise.png"
 import Footer from "./Footer"
 
 // This examples uses external images
@@ -25,7 +26,7 @@ const ContentPageTwo = () => {
                   UIKit <br />
                   JSON API <br />
                   Apple Store:                   <a
-                href="https://apps.apple.com/ca/app/world-countries-and-maps/id1527465440"
+                href="https://apps.apple.com/ca/app/ice-fire-actors-info/id1525243319"
               >
                  Navigate to Apple store
               </a>
@@ -83,8 +84,14 @@ const ContentPageTwo = () => {
               <p>
               An app that fetches and displays raywenderlich.com articles and video courses.
               I used Core Data to save fetched JSON API and display useful informations. The design and
-              layout is insprired by official Raydwenderlich app
+              layout is insprired by official Raywenderlich app
               </p>
+
+            </div>
+            <div style={{paddingLeft: "15%"}}>
+
+            <h2 style={{paddingTop: "10%"}}>Review from Raywenderlich</h2>
+              <img style={{width: "90%"}} src={adv} ></img>
             </div>
           </div>
         </div>

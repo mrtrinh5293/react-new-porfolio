@@ -24,13 +24,12 @@ const World = () => {
               <p style= {{marginLeft: "20px"}}>
                   SwiftUI <br />
                   JSON API <br />
-                  Core Data <br/>
                   MapKit <br />
                   Apple Store: 
                   <a
                 href="https://apps.apple.com/ca/app/world-countries-and-maps/id1527465440"
               >
-                 Navigate to Apple store
+                  Navigate to Apple store
               </a>
             </p>
                   </strong>

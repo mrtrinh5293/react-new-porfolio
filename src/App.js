@@ -6,7 +6,6 @@ import SimpleReactLightbox from "simple-react-lightbox";
 import { HashRouter as Router, Route } from "react-router-dom";
 import Covid from "./components/sub-component/Covid";
 import Covfee from "./components/sub-component/Covfee";
-import Quizz from "./components/sub-component/Quizz";
 import World from "./components/sub-component/World";
 import Resume from "./components/Resume";
 
@@ -40,7 +39,7 @@ function App() {
           <Route path="/others-projects/" component={OthersProjects} />
           <Route path="/covid-tracker/" component={Covid} />
           <Route path="/covfefe/" component={Covfee} />
-          <Route path="/swift-quizz/" component={Quizz} />
+          {/* <Route path="/swift-quizz/" component={Quizz} /> */}
           <Route path="/world-countries/" component={World} />
           <Route path="/resume/" component={Resume} />
 
