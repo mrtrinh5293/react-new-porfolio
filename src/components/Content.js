@@ -21,7 +21,7 @@ const Content = () => {
               <b className="blueCol"> Full Stack WEB DEVELOPMENT</b>, before making the switch to iOS. I am 
               a highly driven individual and a life-long learner. I enjoy solving problems 
               and am very naturally curious, which allows me to learn quickly. 
-              I approach everything with a positive attitude and always aims 
+              I approach everything with a positive attitude and always aim 
               to go above and beyond expectations.
               </p>
             </div>
